@@ -34,7 +34,7 @@ Sample yaml config
 
 The above config will send payload
 
-https://example.com?username=brian&password=123456&extra_field=static_val
+`https://example.com?username=brian&password=123456&extra_field=static_val`
 
 where brian is in the first line of `lists/names-list.txt` and 123456 is the first
 line in `lists/xato-net-10-million-passwords.txt`
