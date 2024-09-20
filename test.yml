@@ -1,0 +1,15 @@
+type: payload
+endpoint: https://example.com
+validateType: size
+cookies: 
+    - sdf=asd
+    - asdf=dsfa
+fields:
+    - name1
+    - name2
+    - name3
+wordlists:
+    - lists/smallList.txt
+    - lists/xato-net-10-million-passwords.txt
+staticValues:
+    - value
